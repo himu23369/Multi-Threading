@@ -38,5 +38,11 @@ Adjust the num_threads list in the script to test different thread configuration
 ## Results Visualization
 The script generates a line plot to visualize the execution time taken with different numbers of threads. This visualization helps in understanding the impact of thread concurrency on performance.
 
+<img src="https://github.com/himu23369/Multi-Threading/blob/main/Multi-Threading/images/img3.png" width="400" height="300">
+
+### CPU Usage
+<img src="https://github.com/himu23369/Multi-Threading/blob/main/Multi-Threading/images/img1.png" width="400" height="300"> <img src="https://github.com/himu23369/Multi-Threading/blob/main/Multi-Threading/images/img2.png" width="400" height="300">
+
+
 ## Contributing
 Contributions are welcome! Feel free to submit pull requests or raise issues for any improvements or suggestions.
